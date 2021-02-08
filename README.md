@@ -48,6 +48,8 @@ The file structure is shown as the folowing:
   │   │   └── master.html
   │   └── run.py 
   ├── data                    # data process
+  │   ├── disaster_categories.csv
+  │   ├── disaster_messages.csv
   │   └── process_data.py
   ├── models                     # model training
   │   └── train_classifier.py
