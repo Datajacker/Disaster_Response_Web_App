@@ -41,5 +41,21 @@ A few python libraries are used for this web app:
 # File description
 The file structure is shown as the folowing:
 
+```
+  ├── app                   # set up the web app
+  │   ├── templates
+  │   │   ├── go.html
+  │   │   └── master.html
+  │   └── run.py 
+  ├── data                    # data process
+  │   └── process_data.py
+  ├── models                     # model training
+  │   └── train_classifier.py
+  ├── screenshots                   # Screenshots
+  │   └── Capture.PNG
+  ├── LICENSE                 
+  └── README.md
+```
+
 # How to interact with this project
 You can send pull request or suggestions to me.
