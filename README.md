@@ -3,7 +3,7 @@ This app utilized the dataset from Figure Eight and built up a natural language 
 
 ![disaster_response](screenshots/Capture.PNG)
 # Project Motivation
-After a disaster, there will be thousand of messages on social media. It is essential for disaster response organizations to analyze those messages and deliver what is needed to those people. Different organization could take care of different responsiblities, such as medical supplies, food, etc. Supervised machine learning models can help extract the words and direct messages to those organizations.
+After a disaster, there will be thousands of messages on social media. It is essential for disaster response organizations to analyze those messages and deliver what is needed to those people. The different organizations could take care of different responsibilities, such as medical supplies, food, etc. Supervised machine learning models can help extract the words and direct messages to those organizations.
 
 # Installation
 A few python libraries are used for this web app:
